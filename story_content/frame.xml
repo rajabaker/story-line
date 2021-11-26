@@ -1,0 +1,1385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="pnxnanbnsnfns01001110111" textdirection="rtl" device="true" fontscale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+  <layouts>
+    <layout name="npnxnanbsnfns01001110111" font="Articulate Extrabold" controllayout="npnxnanbsnfns01001110111" colorscheme="pnxnanbnsnfns01001110111" string_table="pnxnanbnsnfns01001110111" />
+    <layout name="pxabnsnfns01001110111" font="Articulate Extrabold" controllayout="pxabnsnfns01001110111" colorscheme="pnxnanbnsnfns01001110111" string_table="pnxnanbnsnfns01001110111" />
+    <layout name="npxnabnsnfns01001110111" font="Articulate Extrabold" controllayout="npxnabnsnfns01001110111" colorscheme="pnxnanbnsnfns01001110111" string_table="pnxnanbnsnfns01001110111" />
+    <layout name="npnxnanbnsnfns01001110111" font="Articulate Extrabold" controllayout="npnxnanbnsnfns01001110111" colorscheme="pnxnanbnsnfns01001110111" string_table="pnxnanbnsnfns01001110111" />
+    <layout name="pxabnsnfns01001110110" font="Articulate Extrabold" controllayout="pxabnsnfns01001110110" colorscheme="pnxnanbnsnfns01001110111" string_table="pnxnanbnsnfns01001110111" />
+    <layout name="pnxnanbnsnfns01001110111" font="Articulate Extrabold" controllayout="pnxnanbnsnfns01001110111" colorscheme="pnxnanbnsnfns01001110111" string_table="pnxnanbnsnfns01001110111" />
+    <layout name="pxnabnsnfns01001110111" font="Articulate Extrabold" controllayout="pxnabnsnfns01001110111" colorscheme="pnxnanbnsnfns01001110111" string_table="pnxnanbnsnfns01001110111" />
+    <layout name="pxnanbnsnfns01001110111" font="Articulate Extrabold" controllayout="pxnanbnsnfns01001110111" colorscheme="pnxnanbnsnfns01001110111" string_table="pnxnanbnsnfns01001110111" />
+    <layout name="pxnanbsnfns01001110111" font="Articulate Extrabold" controllayout="pxnanbsnfns01001110111" colorscheme="pnxnanbnsnfns01001110111" string_table="pnxnanbnsnfns01001110111" />
+    <layout name="pnxnanbsnfns01001110111" font="Articulate Extrabold" controllayout="pnxnanbsnfns01001110111" colorscheme="pnxnanbnsnfns01001110111" string_table="pnxnanbnsnfns01001110111" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="الأرض المباركة" />
+            </options>
+          </option>
+          <option name="logo_enabled" value="false">
+            <options />
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="right" />
+              <option name="closed" value="false" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="resources" value="true" group="linkright" />
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="true" group="sidebar" />
+              <listitem name="transcript" value="false" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="false">
+            <options>
+              <option name="time_format" value="elapsed" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="false" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="true" />
+          <option name="seekbar" value="false">
+            <options>
+              <option name="readonly" value="false" />
+              <option name="readonlyOnce" value="false" />
+            </options>
+          </option>
+          <option name="pauseplay" value="false" />
+          <option name="replay" value="false" />
+          <option name="search" value="true" />
+          <option name="closed_captions" value="true">
+            <options>
+              <option name="font" value="Articulate Extrabold" />
+            </options>
+          </option>
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="true" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns01001110111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001110111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns01001110111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns01001110111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001110110">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+    <control_layout name="pnxnanbnsnfns01001110111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxnabnsnfns01001110111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxnanbnsnfns01001110111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxnanbsnfns01001110111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pnxnanbsnfns01001110111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="true" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="false" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="pnxnanbnsnfns01001110111">
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00D7FF" alpha="100" stop="0" />
+                <color rgb="0x00ABFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+                <color rgb="0xFCCC2A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEAEAEA" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF3F3F3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF7F7F7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD3D3D3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+                <color rgb="0xAFAFAF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+                <color rgb="0xF4F4F4" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDFDFDF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE6E6E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x909090" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC0E2F1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD3D3D3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF7F7F7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xF3F3F3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDBDBDB" alpha="100" stop="0" />
+                <color rgb="0xC3C3C3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE9E9E9" alpha="100" stop="0" />
+                <color rgb="0xCFCFCF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+                <color rgb="0xAFAFAF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+                <color rgb="0xF4F4F4" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFCFCF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x33CC00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF3F3F3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0xDEDEDE" alpha="100" stop="0" />
+                <color rgb="0xE8E8E8" alpha="100" stop="128" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF6F6F6" alpha="100" stop="0" />
+                <color rgb="0xF3F3F3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC4C4C4" alpha="100" stop="0" />
+                <color rgb="0xB2B2B2" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCBCBCB" alpha="100" stop="0" />
+                <color rgb="0xBABABA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD9D9D9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA7A7A7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCFCFCF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDFDFDF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xADADAD" alpha="100" stop="0" />
+                <color rgb="0xFAFAFA" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8A8A8A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x8A8A8A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5F5F5" alpha="100" stop="0" />
+                <color rgb="0xC7C7C7" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB1B1B1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+                <color rgb="0xEEEEEE" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE7E7E7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF3F3F3" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x555555" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x333333" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1E1E1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC6C6C6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF9F9F9" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1E1E1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE0E0E0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC0E2F1" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x353535" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE6E6E6" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2E2E2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2E2E2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFAFAFA" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE7E7E7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xA5A5A5" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD4D4D4" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC8C8C8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF2F2F2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xBCBCBC" alpha="100" stop="0" />
+                <color rgb="0xBCBCBC" alpha="100" stop="128" />
+                <color rgb="0xC3C3C3" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="pnxnanbnsnfns01001110111">
+      <string id="acc_active">نشط</string>
+      <string id="check_include">التحديد للتضمين</string>
+      <string id="clear">المسح والعودة إلى القائمة</string>
+      <string id="close">إغلاق</string>
+      <string id="acc_closed_captions">تعليقات توضيحية مغلقة. اضغط على مفتاح المسافة للتبديل بين تشغيل التعليقات التوضيحية وإيقافها.</string>
+      <string id="continue">متابعة</string>
+      <string id="continueresponsive">متابعة</string>
+      <string id="exit">خروج</string>
+      <string id="filter">عامل تصفية</string>
+      <string id="finish">إنهاء</string>
+      <string id="acc_finish">إنهاء</string>
+      <string id="definition">التعريف</string>
+      <string id="acc_definition">التعريف</string>
+      <string id="glossary">المصطلحات</string>
+      <string id="terms">الشروط</string>
+      <string id="outline">القائمة</string>
+      <string id="disabled_orientation">الرجاء قم بتدوير جهازك</string>
+      <string id="next">التالي</string>
+      <string id="acc_next">التالي</string>
+      <string id="transcript_chk">ملاحظات</string>
+      <string id="transcript">ملاحظات</string>
+      <string id="bio">سيرة ذاتية</string>
+      <string id="more_info">مزيد من المعلومات</string>
+      <string id="closed_captions">تعليقات توضيحية</string>
+      <string id="acc_pause">إيقاف مؤقت</string>
+      <string id="acc_play">تشغيل</string>
+      <string id="send_an_email">إرسال بريد إلكتروني</string>
+      <string id="prev">السابق</string>
+      <string id="acc_previous">السابق</string>
+      <string id="question_list">قائمة الأسئلة</string>
+      <string id="acc_replay">إعادة تشغيل</string>
+      <string id="resources">الموارد</string>
+      <string id="acc_resources">الموارد</string>
+      <string id="restart">إعادة تشغيل</string>
+      <string id="resume">استئناف</string>
+      <string id="search">جارٍ البحث...</string>
+      <string id="acc_search_input">بحث</string>
+      <string id="search_in">البحث في:</string>
+      <string id="search_results">نتائج البحث</string>
+      <string id="acc_skipnavigation">.تخطي التنقل. اضغط على إدخال للرجوع إلى الشريحة</string>
+      <string id="slide_text_chk">نص منزلق</string>
+      <string id="submitall">إرسال الكل</string>
+      <string id="acc_submitall">إرسال الكل</string>
+      <string id="submit">إرسال</string>
+      <string id="acc_submit">إرسال</string>
+      <string id="acc_volume">مستوى الصوت</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Articulate Extrabold">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+    <font name="Arial">
+      <files>
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.5xgQRasYkYu" displaytext="الدرس السابع _ الأرض المباركة" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5xgQRasYkYu.5qZh4Tvo4lM" displaytext="النتاجات" expand="false" type="slide" />
+            <slidelink slideid="_player.5xgQRasYkYu.5ipCsGjCkaD" displaytext="الرئيسية" expand="false" type="slide" />
+            <slidelink slideid="_player.5xgQRasYkYu.65g1BwT7JOy" displaytext="الكتابة" expand="false" type="slide" />
+            <slidelink slideid="_player.5xgQRasYkYu.5lHZGd5dzrp" displaytext="الاملاء" expand="false" type="slide" />
+            <slidelink slideid="_player.5xgQRasYkYu.6ODHHbBNPov" displaytext="التعبير" expand="false" type="slide" />
+            <slidelink slideid="_player.5xgQRasYkYu.6iVEO180Niw" displaytext="الغلاف" expand="false" type="slide" />
+            <slidelink slideid="_player.5xgQRasYkYu.6mgA1w5F5Rq" displaytext="الاستماع" expand="false" type="slide" />
+            <slidelink slideid="_player.5xgQRasYkYu.6gRObDluHCZ" displaytext="كيف عامل صلاح الدين الغزاة الصليبيين بعد  تحرير القدس؟    " expand="false" type="slide" />
+            <slidelink slideid="_player.5xgQRasYkYu.6aHoiK01Jhf" displaytext="لماذا عَامَلَهُمْ هذِهِ الْمُعامَلَة؟      " expand="false" type="slide" />
+            <slidelink slideid="_player.5xgQRasYkYu.69DDgsidPDj" displaytext="ماذا فَعَلَ صَلاحُ الدِّينِ الأَيُّوبِي حين رأى ضُعَفاءَ الصَّليبِيّين؟     " expand="false" type="slide" />
+            <slidelink slideid="_player.5xgQRasYkYu.6MxThXUoATj" displaytext="كيف أكرم  صلاح الدين ملكة الصليبيين؟ " expand="false" type="slide" />
+            <slidelink slideid="_player.5xgQRasYkYu.5gX0Qfzuup7" displaytext="التحدث" expand="false" type="slide" />
+            <slidelink slideid="_player.5xgQRasYkYu.6gIVqCXBx96" displaytext="المحتوى" expand="false" type="slide" />
+            <slidelink slideid="_player.5xgQRasYkYu.65I9egHyhcN" displaytext="القراءة" expand="false" type="slide" />
+            <slidelink slideid="_player.5xgQRasYkYu.5aVpMcVqt90" displaytext="أنماط لغوية" expand="false" type="slide" />
+            <slidelink slideid="_player.5xgQRasYkYu.6qIAHIFYBxh" displaytext="أسئلة الفهم والاستيعاب" expand="false" type="slide" />
+            <slidelink slideid="_player.5xgQRasYkYu.6nP1VPU9zha" displaytext="التدريبات" expand="false" type="slide" />
+            <slidelink slideid="_player.5xgQRasYkYu.5v37cm9OOXn" displaytext="اختر من الشكل المجاور ما يناسب معنى ماتحته خط في كل مما ياتي:  " expand="false" type="slide" />
+            <slidelink slideid="_player.5xgQRasYkYu.5yPx0TPMzk0" displaytext="اقرأ العبارات التالية واختار ما يناسب معناها في كل مما ياتي:" expand="false" type="slide" />
+            <slidelink slideid="_player.5xgQRasYkYu.5wogcxBmY9H" displaytext="ظلَّ المسجد أسيراً نحو قرنٍ من الزمان، حتى حَررهُ صلاح الدّين الأيوبي، الذي كانَ مِثالاً للقائدِ المُسلم في حُسن معاملة الأسرى والسُّكان من الصليبيّين." expand="false" type="slide" />
+            <slidelink slideid="_player.5xgQRasYkYu.6F2tzICVjrH" displaytext="وفي العصر الحديث يتعرَّض المَسجد المُبارك لاعتداءاتٍ كثيرةٍ من الصهاينةِ المحتلينَ؛ ومنها إعاقة دخول المُصلين، أما البناء فإنه يتعرض للتخريب والتهديد بالهدم." expand="false" type="slide" />
+            <slidelink slideid="_player.5xgQRasYkYu.6QP92RByLrX" displaytext="ما انقطع الهاشميّون عن خدمة الأَقصى المُبارك، وما زال الإعمارُ الْهاشميُّ للمسجدِ مُتواصلاً حتّى اليوم." expand="false" type="slide" />
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="5xgQRasYkYu.5djOEdZmI2I" slidebank="false" type="slide">التعليمات 1- اجلس في مكان هادئ ومريح، وتأكد عزيزي الطالب/ة من شبكة الانترنت قبل البدء. 2- ابدأ بالترتيب من الاستماع الى الاملاء لتحقق نتاجات الدرس 3- يمكنك السماع لنصوص الاستماع والفيديو أكثر من مرة. 4- اكتب عنوان بريدك واسمك بعد حل الاسئلة التي تتطلب ذلك.  5- للمساعدة يمكنك مراسلة المعلمة rajabaker85@gmail.com.    ابدأ هنا  </slidetext>
+      <slidetext slideid="5xgQRasYkYu.6iVEO180Niw" slidebank="false" type="slide">الاسم المدرسة الشُعبة %name% قم بكتابة اسمك والصف والمدرسة </slidetext>
+      <slidetext slideid="5xgQRasYkYu.5qZh4Tvo4lM" slidebank="false" type="slide">-أن يتعرف على  ليلة الإسراء والمعراج.  2- أن يجيب الطالب عن  أسئلة الاستماع بوضوح 3- أن يتعرف على   معنى دلالات الألفاظ  والتّراكيب الواردة في الدرس. 4- أن يوظف الطالب التراكيب والمصطلحات الواردة في الدرس في جمل مفيدة.  5- أن يميز الطالب الأسماء الموصولة من حيث الجنس والعدد.   6- أن يرتب الطالب العبارات الواردة في  التعبير بفقرة ذات معنى.   7- أن يستخلص العبرة  من قصة صلاح الدين الأيوبي .  8- أن يعتز الطالب بنماذج رائدة من تاريخه الإسلامي كصلاح الدين الأيوبي.  النتاجات </slidetext>
+      <slidetext slideid="5xgQRasYkYu.5lHZGd5dzrp" slidebank="false" type="slide">وقفت زها مع صديقتها أول الشارع، واشارت بِيَدها: فقالت: هذا بيتنا، وهذه حديقتنا الجَميلة المليئة بالورود، وذلك هو أخي الصَّغير عبد الرحمن، تفضلي بزيارتنا وقفت زها مع صديقتها أول الشارع، واشارت بِيَدها: فقالت: هذا بيتنا، وهذه حديقتنا الجَميلة المليئة بالورود، وذلك هو أخي الصَّغير عبد الرحمن، تفضلي بزيارتنا وقفت زها مع صديقتها أول الشارع، واشارت بِيَدها: فقالت: هذا بيتنا، وهذه حديقتنا الجَميلة المليئة بالورود، وذلك هو أخي الصَّغير عبد الرحمن، تفضلي بزيارتنا وقفت زها مع صديقتها أول الشارع، واشارت بِيَدها: فقالت: هذا بيتنا، وهذه حديقتنا الجَميلة المليئة بالورود، وذلك هو أخي الصَّغير عبد الرحمن، تفضلي بزيارتنا وقفت زها مع صديقتها أول الشارع، واشارت بِيَدها: فقالت: هذا بيتنا، وهذه حديقتنا الجَميلة المليئة بالورود، وذلك هو أخي الصَّغير عبد الرحمن، تفضلي بزيارتنا وقفت زها مع صديقتها أول الشارع، واشارت بِيَدها: فقالت: هذا بيتنا، وهذه حديقتنا الجَميلة المليئة بالورود، وذلك هو أخي الصَّغير عبد الرحمن، تفضلي بزيارتنا وقفت زها مع صديقتها أول الشارع، واشارت بِيَدها: فقالت: هذا بيتنى، وهذه حديقتنا الجَميلة المليئة بالورود، وذلك هو أخي الصَّغير عبد الرحمن، تفضلي بزيرتنا وقفت زها مع صديقتها أول الشارع، واشارت بِيَدها: فقالت: هذا بيتنى، وهذه حديقتنا الجَميلة المليئة بالورود، وذلك هو أخي الصَّغير عبد الرحمن، تفضلي بزيرتنا وقفت زها مع صديقتها أول الشارع، واشارت بِيَدها: فقالت: هذا بيتنى، وهذه حديقتنا الجَميلة المليئة بالورود، وذلك هو أخي الصَّغير عبد الرحمن، تفضلي بزيرتنا وقفت زها مع صديقتها أول الشارع، واشارت بِيَدها: فقالت: هذا بيتنى، وهذه حديقتنا الجَميلة المليئة بالورود، وذلك هو أخي الصَّغير عبد الرحمن، تفضلي بزيرتنا وقفت زها مع صديقتها أول الشارع، واشارت بِيَدها: فقالت: هذا بيتنى، وهذه حديقتنا الجَميلة المليئة بالورود، وذلك هو أخي الصَّغير عبد الرحمن، تفضلي بزيرتنا وقفت زها مع صديقتها أول الشارع، واشارت بِيَدها: فقالت: هذا بيتنى، وهذه حديقتنا الجَميلة المليئة بالورود، وذلك هو أخي الصَّغير عبد الرحمن، تفضلي بزيرتنا وقفت زها مع صديقتها أول الشارع، واشارت بِيَدها: فقالت: هذا بيتنى، وهذه حديقتنا الجَميلة المليئة بالورود، وذلك هو أخي الصَّغير عبد الرحمن، تفضلي بزيارتنا وقفت زها مع صديقتها أول الشارع، واشارت بِيَدها: فقالت: هذا بيتنى، وهذه حديقتنا الجَميلة المليئة بالورود، وذلك هو أخي الصَّغير عبد الرحمن، تفضلي بزيارتنا وقفت زها مع صديقتها أول الشارع، واشارت بِيَدها: فقالت: هذا بيتنى، وهذه حديقتنا الجَميلة المليئة بالورود، وذلك هو أخي الصَّغير عبد الرحمن، تفضلي بزيارتنا وقفت زها مع صديقتها أول الشارع، واشارت بِيَدها: فقالت: هذا بيتنى، وهذه حديقتنا الجَميلة المليئة بالورود، وذلك هو أخي الصَّغير عبد الرحمن، تفضلي بزيارتنا وقفت زها مع صديقتها أول الشارع، واشارت بِيَدها: فقالت: هذا بيتنى، وهذه حديقتنا الجَميلة المليئة بالورود، وذلك هو أخي الصَّغير عبد الرحمن، تفضلي بزيارتنا وقفت زها مع صديقتها أول الشارع، واشارت بِيَدها: فقالت: هذا بيتنى، وهذه حديقتنا الجَميلة المليئة بالورود، وذلك هو أخي الصَّغير عبد الرحمن، تفضلي بزيارتنا اختر الجملة المكتوبة بالشكل الصحيح مما يلي :  الدَّرْسُ السّابِعُ الْأَرْضُ الْمُبارَكَةُ %name% الإملاء </slidetext>
+      <slidetext slideid="5xgQRasYkYu.5ipCsGjCkaD" slidebank="false" type="slide">الاستماع التحدث القراءة الكتابة التعبير الإملاء أنماط لغوية الغلاف النتاجات التعليمات %name% </slidetext>
+      <slidetext slideid="5xgQRasYkYu.65g1BwT7JOy" slidebank="false" type="slide">الدَّرْسُ السّابِعُ الْأَرْضُ الْمُبارَكَةُ %name% الكتابة صِل الحُروف في كل مما يأتي؛ لتكون كلمة، ثم ألفظ ولاحظ الحرف الذي ينطق ولا يكتب ل كِ نَّ ذ لِ كَ ا ل رَّ حْ م نُ هـ ذ ا هـ ذِ هِ اكتب النص هنا اكتب النص هنا اكتب النص هنا اكتب النص هنا اكتب النص هنا لعبة البطاقات رمز اللعبة :vsyvva </slidetext>
+      <slidetext slideid="5xgQRasYkYu.6mgA1w5F5Rq" slidebank="false" type="slide">الاِسْتِماعُ %name% الدَّرْسُ السّابِعُ الْأَرْضُ الْمُبارَكَةُ الِاسْتِماعُ استمع إلى النص جيداً من خلال الضغط على زر التشغيل، ثم أجب عن الأسئلة بالضغط على زر التالي   نص الِاسْتِماعُ </slidetext>
+      <slidetext slideid="5xgQRasYkYu.6gRObDluHCZ" slidebank="false" type="slide">كيف عامل صلاح الدين الغزاة الصليبيين بعد  تحرير القدس؟  لم يعامل أحدا لم يعامل أحدا لم يعامل أحدا لم يعامل أحدا لم يعامل أحدا لم يعامل أحدا معاملة  قاسية جدا معاملة  قاسية جدا معاملة  قاسية جدا معاملة  قاسية جدا معاملة  قاسية جدا معاملة  قاسية جدا معاملة عطف ورحمة معاملة عطف ورحمة معاملة عطف ورحمة معاملة عطف ورحمة معاملة عطف ورحمة معاملة عطف ورحمة أسئلة الاستماع : اضغط عزيزي الطالب/ة  الزِر  الزِر  الزِر  الزِر  الزِر  الزِر %name% على           لسماع السؤال الأول </slidetext>
+      <slidetext slideid="5xgQRasYkYu.6aHoiK01Jhf" slidebank="false" type="slide">لماذا عَامَلَهُمْ هذِهِ الْمُعامَلَة؟  عاملهم هذه المعاملة ليثبت قوته عاملهم هذه المعاملة ليثبت قوته عاملهم هذه المعاملة ليثبت قوته عاملهم هذه المعاملة ليثبت قوته عاملهم هذه المعاملة ليثبت قوته عاملهم هذه المعاملة ليثبت قوته عاملهم هذه المعاملة ليعرفوا أن الإسلام دين الرحمة والإنسانية عاملهم هذه المعاملة ليعرفوا أن الإسلام دين الرحمة والإنسانية عاملهم هذه المعاملة ليعرفوا أن الإسلام دين الرحمة والإنسانية عاملهم هذه المعاملة ليعرفوا أن الإسلام دين الرحمة والإنسانية عاملهم هذه المعاملة ليعرفوا أن الإسلام دين الرحمة والإنسانية عاملهم هذه المعاملة ليعرفوا أن الإسلام دين الرحمة والإنسانية عاملهم هذه المعاملة لخوفهم منه عاملهم هذه المعاملة لخوفهم منه عاملهم هذه المعاملة لخوفهم منه عاملهم هذه المعاملة لخوفهم منه عاملهم هذه المعاملة لخوفهم منه عاملهم هذه المعاملة لخوفهم منه أسئلة الاستماع : اضغط عزيزي الطالب/ة %name% على           لسماع السؤال الثاني  الزِر  الزِر  الزِر  الزِر  الزِر  الزِر </slidetext>
+      <slidetext slideid="5xgQRasYkYu.69DDgsidPDj" slidebank="false" type="slide">ماذا فَعَلَ صَلاحُ الدِّينِ الأَيُّوبِي حين رأى ضُعَفاءَ الصَّليبِيّين؟  ساعدهم وأمرَهم بالرحيل ساعدهم وأمرَهم بالرحيل ساعدهم وأمرَهم بالرحيل ساعدهم وأمرَهم بالرحيل ساعدهم وأمرَهم بالرحيل ساعدهم وأمرَهم بالرحيل أمنهم على أنفسهم، وأمر لهم بالمال  والدواب  لتحمل  أثقالهم أمنهم على أنفسهم، وأمر لهم بالمال  والدواب  لتحمل  أثقالهم أمنهم على أنفسهم، وأمر لهم بالمال  والدواب  لتحمل  أثقالهم أمنهم على أنفسهم، وأمر لهم بالمال  والدواب  لتحمل  أثقالهم أمنهم على أنفسهم، وأمر لهم بالمال  والدواب  لتحمل  أثقالهم أمنهم على أنفسهم، وأمر لهم بالمال  والدواب  لتحمل  أثقالهم أسئلة الاستماع : اضغط عزيزي الطالب/ة %name% على           لسماع السؤال الثالث  الزِر  الزِر  الزِر  الزِر  الزِر  الزِر </slidetext>
+      <slidetext slideid="5xgQRasYkYu.6MxThXUoATj" slidebank="false" type="slide">كيف أكرم  صلاح الدين ملكة الصليبيين؟  عاملها بلطف وأرسلها الى زوجها عاملها بلطف وأرسلها الى زوجها عاملها بلطف وأرسلها الى زوجها عاملها بلطف وأرسلها الى زوجها عاملها بلطف وأرسلها الى زوجها عاملها بلطف وأرسلها الى زوجها أمر بنفيها خارج القدس  أمر بنفيها خارج القدس  أمر بنفيها خارج القدس  أمر بنفيها خارج القدس  أمر بنفيها خارج القدس  أمر بنفيها خارج القدس  أمر بحبسها في قصرها أمر بحبسها في قصرها أمر بحبسها في قصرها أمر بحبسها في قصرها أمر بحبسها في قصرها أمر بحبسها في قصرها أسئلة الاستماع : اضغط عزيزي الطالب/ة %name% على           لسماع السؤال الرابع  الزِر  الزِر  الزِر  الزِر  الزِر  الزِر </slidetext>
+      <slidetext slideid="5xgQRasYkYu.5gX0Qfzuup7" slidebank="false" type="slide">%name% الدَّرْسُ السّابِعُ الْأَرْضُ الْمُبارَكَةُ التحدث %name% المحتوى أسئلة التحدث قم بمشاهدة محتوى مادة التحدث، بعد انتهاءك من ذلك قم بحل الأسئلة </slidetext>
+      <slidetext slideid="5xgQRasYkYu.6gIVqCXBx96" slidebank="false" type="slide">%name% الدَّرْسُ السّابِعُ الْأَرْضُ الْمُبارَكَةُ استمع للحديث الشريف %name% التحدث </slidetext>
+      <slidetext slideid="5xgQRasYkYu.65I9egHyhcN" slidebank="false" type="slide">%name% الدَّرْسُ السّابِعُ الْأَرْضُ الْمُبارَكَةُ %name% القراءة استمع للآية ثم شاهد الفيديو من خلال زر الشتغيل </slidetext>
+      <slidetext slideid="5xgQRasYkYu.5aVpMcVqt90" slidebank="false" type="slide">زاوج بين الكلمة ومعناها فيما يلي   الدَّرْسُ السّابِعُ الْأَرْضُ الْمُبارَكَةُ %name% أنماط لغوية معاني المفردات والتراكيب أسئلة الفهم والاستيعاب التدريبات </slidetext>
+      <slidetext slideid="5xgQRasYkYu.6ODHHbBNPov" slidebank="false" type="slide">الدَّرْسُ السّابِعُ الْأَرْضُ الْمُبارَكَةُ التعبير أعد ترتيب العبارات الآتية، اضغط على زر الدفتر المتحرك وابدأ - هل ترغبين في ذلك يا أمي؟ - سألتقط ثمرتين عن الشجرة. - أجل، شكراً لَكِ. - وقالت: ما أجملَ رائحةَ البرتقال الفواحَةَ! - قالت الأُمُ: - في بُستان البُرتقالِ - جَلَست رغد مَعَ أُمها %name% </slidetext>
+      <slidetext slideid="5xgQRasYkYu.6qIAHIFYBxh" slidebank="false" type="slide">الدَّرْسُ السّابِعُ الْأَرْضُ الْمُبارَكَةُ %name% أسئلة الفهم والاستيعاب أنماط لغوية اضغط على زر أسئلة الفهم والاستيعاب وقم بادخال رمز الدخول : 2sqm2g </slidetext>
+      <slidetext slideid="5xgQRasYkYu.6nP1VPU9zha" slidebank="false" type="slide">الدَّرْسُ السّابِعُ الْأَرْضُ الْمُبارَكَةُ %name% التدريبات ج1 التدريبات ج2 أنماط لغوية قم بادخال الرمز lsr7lr لحل التدريبات ج1 </slidetext>
+      <slidetext slideid="5xgQRasYkYu.5v37cm9OOXn" slidebank="false" type="slide">اختر من الشكل المجاور ما يناسب معنى ماتحته خط في كل مما ياتي:   يسافر الناس تُشدُّ الرِّحال إلى المسجد الأقصى البناء والاصلاح ما زال الإعمار الهاشمي للمسجد مُتواصلاً منع يحاول الصَّهاينة إعاقة دُخول المُصلين إلى المسجد المفردات والتراكيب : عزيزي الطالب/ة %name% أجب عن الأسئلة : </slidetext>
+      <slidetext slideid="5xgQRasYkYu.5yPx0TPMzk0" slidebank="false" type="slide">كان خروج النبي عليه السلام ليلاً من المسجد الحرام إلى المسجد الأقصى مَسرى ومنه صُعوده إلى السماوات العُلا. مِعراج حرر صلاح الدين القدس من الصليبيين استرد، خلص حرَّر القاضي قراراً بإدانة المجرم. أصدر المفردات والتراكيب : عزيزي الطالب/ة %name% أجب عن الأسئلة : اقرأ العبارات التالية واختار ما يناسب معناها في كل مما ياتي: </slidetext>
+      <slidetext slideid="5xgQRasYkYu.5wogcxBmY9H" slidebank="false" type="slide">استخرج من النص أدناه ضد كلمة حُرٌ من خلال الضغط على الكلمة:  المفردات والتراكيب : عزيزي الطالب/ة %name% أجب عن الأسئلة : ظلَّ المسجد أسيراً نحو قرنٍ من الزمان، حتى حَررهُ صلاح الدّين الأيوبي، الذي كانَ مِثالاً للقائدِ المُسلم في حُسن معاملة الأسرى والسُّكان من الصليبيّين. </slidetext>
+      <slidetext slideid="5xgQRasYkYu.6F2tzICVjrH" slidebank="false" type="slide">استخرج من النص أدناه ضد كلمة القَديم من خلال الضغط على الكلمة:  المفردات والتراكيب : عزيزي الطالب/ة %name% أجب عن الأسئلة : وفي العصر الحديث يتعرَّض المَسجد المُبارك لاعتداءاتٍ كثيرةٍ من الصهاينةِ المحتلينَ؛ ومنها إعاقة دخول المُصلين، أما البناء فإنه يتعرض للتخريب والتهديد بالهدم. </slidetext>
+      <slidetext slideid="5xgQRasYkYu.6QP92RByLrX" slidebank="false" type="slide">استخرج من النص أدناه ضد كلمة متَقَطِّع من خلال الضغط على الكلمة:  المفردات والتراكيب : عزيزي الطالب/ة %name% أجب عن الأسئلة : ما انقطع الهاشميّون عن خدمة الأَقصى المُبارك، وما زال الإعمارُ الْهاشميُّ للمسجدِ مُتواصلاً حتّى اليوم. </slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="&lt;p align='right'&gt;&lt;font face='Articulate Extrabold' style='font-size: 11px;' size='11' color='#444444'&gt;&amp;#1605;&amp;#1608;&amp;#1575;&amp;#1602;&amp;#1593; &amp;#1584;&amp;#1575;&amp;#1578; &amp;#1593;&amp;#1604;&amp;#1575;&amp;#1602;&amp;#1577;&lt;/font&gt;&lt;/p&gt;">
+    <resources>
+      <resource url="https://www.minhaji.net/lesson/813/%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D9%85%D8%A7%D8%B9" image="story_content/url.png" title="www.minhaji.net" />
+      <resource url="https://www.facebook.com/1953454514925868/posts/2224599634478020/" image="story_content/url.png" title="www.facebook.com" />
+      <resource url="https://www.youtube.com/watch?v=lcyVDd9CgxQ" image="story_content/url.png" title="www.youtube.com" />
+      <resource url="https://www.youtube.com/watch?v=avVtFr1q5tQ" image="story_content/url.png" title="www.youtube.com" />
+      <resource url="https://vb.3dlat.com/showthread.php?t=389313" image="story_content/url.png" title="الموصولة الأسماء" />
+      <resource url="https://www.almrsal.com/post/874142" image="story_content/url.png" title="الموصولة الأسماء" />
+    </resources>
+  </resource_data>
+  <transcript_data>
+    <slidetranscripts>
+      <slidetranscript slideid="5xgQRasYkYu.5djOEdZmI2I" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="0">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: rtl; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate Extrabold' size='24.5pt' style="font-size:24.5pt;" color='#000000'&gt;&lt;b&gt;الروابط التشعبية: يوجد رابط تالي فقط ولا يوجد رابط سابق لأن هذه الصفحة ستكون أول صفحة في البرمجية.&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='right' style='text-align:right;direction: rtl; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate Extrabold' size='24.5pt' style="font-size:24.5pt;" color='#000000'&gt;&lt;b&gt;على اليمين هناك روابط تشعبية للدروس جميعها كل حسب اسم الدرس. &lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='right' style='text-align:right;direction: rtl; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate Extrabold' size='24.5pt' style="font-size:24.5pt;" color='#000000'&gt;&lt;b&gt;أحداث الشاشة: لا يوجد حركات في هذه الشاشة تظهر الصورة كما هي.&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='right' style='text-align:right;direction: rtl; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate Extrabold' size='24.5pt' style="font-size:24.5pt;" color='#000000'&gt;&lt;b&gt;الحوار والمشاهد في الفيديو: لا يوجد فيديو أو أية أصوات مخصصة.&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='right' style='text-align:right;direction: rtl; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate Extrabold' size='24.5pt' style="font-size:24.5pt;" color='#000000'&gt;&lt;b&gt;المراحل الانتقالية: لا يوجد حركة مخصصة.&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: rtl; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: rtl; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5xgQRasYkYu.6iVEO180Niw" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="1">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: rtl; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate Extrabold' size='24.5pt' style="font-size:24.5pt;" color='#000000'&gt;&lt;b&gt;الروابط التشعبية: يوجد رابط تالي وسابق، هذه الصفحة هي الصفحة الثانية.&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='right' style='text-align:right;direction: rtl; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate Extrabold' size='24.5pt' style="font-size:24.5pt;" color='#000000'&gt;&lt;b&gt;على اليمين هناك روابط تشعبية للدروس جميعها كل حسب اسم الدرس. &lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='right' style='text-align:right;direction: rtl; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate Extrabold' size='24.5pt' style="font-size:24.5pt;" color='#000000'&gt;&lt;b&gt;أحداث الشاشة: يكتب الطالب اسمه واسم مدرسته ورقم صفه .&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='right' style='text-align:right;direction: rtl; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate Extrabold' size='24.5pt' style="font-size:24.5pt;" color='#000000'&gt;&lt;b&gt;الحوار والمشاهد في الفيديو: لا يوجد فيديو أو أية أصوات مخصصة.&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='right' style='text-align:right;direction: rtl; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate Extrabold' size='24.5pt' style="font-size:24.5pt;" color='#000000'&gt;&lt;b&gt;المراحل الانتقالية: في حال الضغط على التالي ينتقل الطالب الى أهداف الدرس الخاصة، يمكن للطالب بالضغط على زر عنوان الدرس لينتقل مباشرة إلى القوائم الرئيسية للدرس.&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: rtl; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: rtl; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5xgQRasYkYu.5qZh4Tvo4lM" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="0">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: rtl; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate Extrabold' size='24.5pt' style="font-size:24.5pt;" color='#000000'&gt;&lt;b&gt;الروابط التشعبية: يوجد رابط تالي فقط ولا يوجد رابط سابق لأن هذه الصفحة ستكون أول صفحة في البرمجية.&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='right' style='text-align:right;direction: rtl; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate Extrabold' size='24.5pt' style="font-size:24.5pt;" color='#000000'&gt;&lt;b&gt;على اليمين هناك روابط تشعبية للدروس جميعها كل حسب اسم الدرس. &lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='right' style='text-align:right;direction: rtl; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate Extrabold' size='24.5pt' style="font-size:24.5pt;" color='#000000'&gt;&lt;b&gt;أحداث الشاشة: لا يوجد حركات في هذه الشاشة تظهر الصورة كما هي.&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='right' style='text-align:right;direction: rtl; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate Extrabold' size='24.5pt' style="font-size:24.5pt;" color='#000000'&gt;&lt;b&gt;الحوار والمشاهد في الفيديو: لا يوجد فيديو أو أية أصوات مخصصة.&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='right' style='text-align:right;direction: rtl; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate Extrabold' size='24.5pt' style="font-size:24.5pt;" color='#000000'&gt;&lt;b&gt;المراحل الانتقالية: لا يوجد حركة مخصصة.&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: rtl; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: rtl; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5xgQRasYkYu.6mgA1w5F5Rq" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="2">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: rtl; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate Extrabold' size='24.5pt' style="font-size:24.5pt;" color='#000000'&gt;&lt;b&gt;الروابط التشعبية: التالي والسابق والصفحة الرئيسية، الفهرس الشامل للبرمجية، زر الصفحة الرئيسية.&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='right' style='text-align:right;direction: rtl; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate Extrabold' size='24.5pt' style="font-size:24.5pt;" color='#000000'&gt;&lt;b&gt;أحداث الشاشة: ظهور الصور معا مع دخول مناسب&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='right' style='text-align:right;direction: rtl; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate Extrabold' size='24.5pt' style="font-size:24.5pt;" color='#000000'&gt;&lt;b&gt;الحوار والمشاهد في الفيديو أو الصوت : صوت (معاملة صلاح الدين الأيوبي للصليبيين بعد فتح القدس).&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='right' style='text-align:right;direction: rtl; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate Extrabold' size='24.5pt' style="font-size:24.5pt;" color='#000000'&gt;&lt;b&gt;المراحل الانتقالية: حركة مخصصة للانتقال الى التالي ألا وهي أسئلة الاستماع، يمكن للطالب التنقل في فهرس الوحدة كما يشاء والانتقال الى الصفحة الرئيسية في أي مرحلة من مراحل البرمجية.&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5xgQRasYkYu.65I9egHyhcN" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="3">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: rtl; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate Extrabold' size='24.5pt' style="font-size:24.5pt;" color='#000000'&gt;&lt;b&gt;الروابط التشعبية: التالي والسابق والصفحة الرئيسية ، عند تمرير الماوس على السماعة يظهر نص انقر هنا للاستماع&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='right' style='text-align:right;direction: rtl; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate Extrabold' size='24.5pt' style="font-size:24.5pt;" color='#000000'&gt;&lt;b&gt;أحداث الشاشة: ظهور الصور معا مع دخول مناسب&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='right' style='text-align:right;direction: rtl; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate Extrabold' size='24.5pt' style="font-size:24.5pt;" color='#000000'&gt;&lt;b&gt;الحوار والمشاهد في الفيديو أو الصوت : صوت يقرأ الآية القرآنية &lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='right' style='text-align:right;direction: rtl; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate Extrabold' size='24.5pt' style="font-size:24.5pt;" color='#000000'&gt;&lt;b&gt;المراحل الانتقالية: حركة مخصصة للانتقال الى التالي، يمكن للطالب التنقل في فهرس الوحدة كما يشاء والانتقال الى الصفحة الرئيسية في أي مرحلة من مراحل البرمجية.&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: rtl; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+      <slidetranscript slideid="5xgQRasYkYu.5aVpMcVqt90" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="4">&lt;html&gt;&lt;p align='left' style='text-align:left;direction: rtl; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate Extrabold' size='24.5pt' style="font-size:24.5pt;" color='#000000'&gt;&lt;b&gt;الروابط التشعبية: التالي والسابق والصفحة الرئيسية وفهرس الوحدة كاملة&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='right' style='text-align:right;direction: rtl; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate Extrabold' size='24.5pt' style="font-size:24.5pt;" color='#000000'&gt;&lt;b&gt;أحداث الشاشة: ظهور السؤال بشكل تدريجي، ظهور ثلاث اجابات&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='right' style='text-align:right;direction: rtl; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate Extrabold' size='24.5pt' style="font-size:24.5pt;" color='#000000'&gt;&lt;b&gt;الحوار والمشاهد في الفيديو أو الصوت : لايوجد&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='right' style='text-align:right;direction: rtl; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;font face='Articulate Extrabold' size='24.5pt' style="font-size:24.5pt;" color='#000000'&gt;&lt;b&gt;المراحل الانتقالية: ينتقل الطالب الى السؤال الذي يليه عند النقر على زر المتابعة، حركة مخصصة للانتقال الى التالي والسابق، يمكن للطالب التنقل في فهرس الوحدة كما يشاء والانتقال الى الصفحة الرئيسية في أي مرحلة من مراحل البرمجية.&lt;/b&gt;&lt;/font&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: rtl; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: rtl; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;p align='left' style='text-align:left;direction: rtl; padding-left: 0px'&gt;&lt;textformat leading='0' tabstops='[0, 48, 96, 144]'&gt;&lt;/textformat&gt;&lt;/p&gt;&lt;/html&gt;</slidetranscript>
+    </slidetranscripts>
+  </transcript_data>
+  <glossary_data>
+    <terms>
+      <term title="الصَّهاينة">جمع صُهيون، وهو جبل جنوب غرب فلسطين</term>
+      <term title="الصهيونية">حركة عنصرية يهودية سياسية، اخذت اسمها من جبل صهيون في القدس - وهو اسم عربي الأصل- ولقد عملت الصهوينة على لإقامة دولة اسرائيل المزعومة في فلسطين.</term>
+    </terms>
+  </glossary_data>
+</bwFrame>
